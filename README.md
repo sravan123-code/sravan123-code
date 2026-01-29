@@ -10,5 +10,5 @@
 - Custom Arch Linux System
 
 ### 📫 Connect
-- LinkedIn: <your link>
+- LinkedIn: https://www.linkedin.com/in/sravan-achari/
 - Email: sravanp126@gmail.com
