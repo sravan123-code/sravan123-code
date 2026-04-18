@@ -84,7 +84,6 @@
 
 ---
 
-# 🐍 Snake Eating Contributions
 
 <div align="center">
 
