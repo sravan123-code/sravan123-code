@@ -24,6 +24,7 @@
 🐧 Linux enthusiast who enjoys terminal productivity  
 🔐 Interested in **Cybersecurity & Secure Infrastructure**  
 📚 Constant learner building real-world projects  
+🎯 Goal: To become a top Software Engineer  
 
 ---
 
@@ -78,6 +79,16 @@
 <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=sravan123-code&theme=tokyonight&hide_border=true"/>
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sravan123-code&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Snake Eating Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
 
