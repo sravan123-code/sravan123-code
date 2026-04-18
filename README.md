@@ -11,9 +11,9 @@
 ☕ Java | 🐧 Linux | 🐳 Docker | ☸ Kubernetes | ☁ AWS  
 
 ### 🚀 Projects
-- Java ATM & Bank Management System
-- DevSecOps Scalable Streaming Platform
-- Custom Arch Linux System
+- DevOps & Cloud Deployment
+- Calculator Application(Application Development Using Java)
+- Project Search Everywhere | Python3, Linux, Grep, Open Office, Bash, MS Office
 - 
 TECH STACK
 - <p align="center">
