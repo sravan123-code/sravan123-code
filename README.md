@@ -108,7 +108,6 @@
 
 <a href="https://linkedin.com/in/sravanachari/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:sravanp126@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
-<a href="https://github.com/sravan123-code"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
 
 </div>
 
