@@ -7,7 +7,6 @@
 ### 🚀 Computer Science Engineer | DevOps | Cloud | Java | Cybersecurity
 
 <p>
-<a href="https://github.com/sravan123-code"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
 <a href="https://linkedin.com/in/sravanachari/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
 <a href="mailto:sravanp126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"></a>
 </p>
